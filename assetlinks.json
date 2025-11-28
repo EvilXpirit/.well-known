@@ -4,8 +4,10 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.stay.afloat",
-      "sha256_cert_fingerprints":
-        ["43:E8:B9:E7:61:DE:AC:10:CC:F1:4B:E8:D8:0C:66:CC:D0:B6:1C:2B:38:0F:73:33:62:ED:81:76:D9:10:6A:73"]
+      "sha256_cert_fingerprints": [
+        "2E:BB:9C:38:90:36:20:B5:F4:18:13:E9:6A:40:E1:5C:83:4D:B8:5C:BB:0D:78:E5:B3:15:EF:C6:67:09:63:E2",
+        "43:E8:B9:E7:61:DE:AC:10:CC:F1:4B:E8:D8:0C:66:CC:D0:B6:1C:2B:38:0F:73:33:62:ED:81:76:D9:10:6A:73"
+      ]
     }
   }
 ]
